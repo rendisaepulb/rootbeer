@@ -24,7 +24,8 @@ final class Const {
             "com.kingo.root",
             "com.smedialink.oneclickroot",
             "com.zhiqupk.root.global",
-            "com.alephzain.framaroot"
+            "com.alephzain.framaroot",
+            "dom.team.dotmod"
     };
 
     public static final String[] knownDangerousAppsPackages = {
@@ -66,7 +67,8 @@ final class Const {
             "com.amphoras.hidemyroot",
             "com.amphoras.hidemyrootadfree",
             "com.formyhm.hiderootPremium",
-            "com.formyhm.hideroot"
+            "com.formyhm.hideroot",
+            "dom.team.dotmod"
     };
 
     // These must end with a /
