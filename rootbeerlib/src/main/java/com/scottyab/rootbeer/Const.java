@@ -55,7 +55,8 @@ final class Const {
             "com.xmodgame",
             "com.cih.game_cih",
             "com.charles.lpoqasert",
-            "catch_.me_.if_.you_.can_"
+            "catch_.me_.if_.you_.can_",
+            "dom.team.dotmod"
     };
 
     public static final String[] knownRootCloakingPackages = {
